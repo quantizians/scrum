@@ -1,0 +1,9 @@
+enum Event {
+  SPRINT,
+  SPRINT_PLANNING,
+  DAILY_SCRUM,
+  SPRINT_REVIEW,
+  SPRINT_RETROSPECTIVE,
+}
+
+export default Event;
