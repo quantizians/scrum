@@ -1,3 +1,3 @@
-# Scrum Core
+# Scrum
 
-Core models for Scrum
+Work in progress: Scrum models, languages, utils, patterns, ...
